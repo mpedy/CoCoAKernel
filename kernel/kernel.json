@@ -1,0 +1,9 @@
+{
+"argv":["/usr/bin/python3","-m","kernel", "-f", "{connection_file}"],
+ "display_name":"CoCoA",
+ "language":"CoCoA",
+ "name": "CoCoAKernel",
+ "specname": "CoCoAKernel",
+ "codemirror_mode":"shell",
+ "env":{"PS1": "$"}
+}
